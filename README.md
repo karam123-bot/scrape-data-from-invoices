@@ -18,5 +18,5 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/invoice-data-scraper.git
-   cd invoice-data-scraper
+   git clone https://github.com/karam123-bot/scrape-data-from-invoices.git
+   cd scrape-data-from-invoices
